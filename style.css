@@ -1,0 +1,16 @@
+.login_page{
+    border: 2px solid black;
+    display: inline-block;
+    margin-left: 28rem;
+    padding: 2rem;
+    border-radius: 2rem;
+}
+h1{
+    text-align: center;
+}
+.submit_btn{
+    margin-left: 5rem;
+    margin-top: 2rem;
+    height: 3rem;
+    width: 4rem;
+}
